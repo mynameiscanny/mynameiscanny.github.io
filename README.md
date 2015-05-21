@@ -1,16 +1,17 @@
-# mynameiscanny.github.io
+# My portfolio
 
+My name is [Dan Nguyen](http://twitter.com/dancow)
 
-## Hello world!
+* [Bastards Book of Regular Expressions](http://regex.bastardsbook.com/)  - A free ebook on how to use regular expressions for everyday informational purposes
 
-This is my first try at github!
+* [Eye Heart New York](http://tumblr.eyeheartnewyork.com) - A Tumblr of my New York photos
 
-My Github user page is at: 
-https://github.com/mynameiscanny/
+* [I Heart NY Museums](http://iheartnymuseums.com/) - A really old interactive map showing open/free hours at local museums
 
-My Github Pages repo can be found at:  
-https://github.com/mynameiscanny/mynameiscanny.github.io/
+A picture of someone playing the didgeridoo
 
-And, soon, you can see my customized homepage at:
+![alt text](http://i.imgur.com/2i35DTo.jpg)
 
-http://mynameiscanny.github.io/
+Here's video of that performance:
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/dfCd2eQfueY?list=UUw7F4bJbtGwORQwMBxlGb6w" frameborder="0" allowfullscreen></iframe>
